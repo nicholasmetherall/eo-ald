@@ -1,5 +1,5 @@
-# eo-ald
-Earth Observation Assessment of Loss and Damage - collated repositories and case studies
+# Earth Observation for Assessment of Loss and Damage (EO-ALD)
+Earth Observation Assessment for Loss and Damage - collated repositories and case studies
 
 This paper provides overview of Earth Observation of Loss and Damage (EO-ALD) including monitoring of the elements of climate risk: hazards, assets and vulnerability. The paper draws on three case studies of EO-ALD. It then proceeds to generate new data and a novel case study of how EO data can be applied in monitoring actions to reduce climate risk. The GitHub repository that collates all of the repositories for this article can be found via the link: https://github.com/nicholasmetherall/eo-ald.git. Other datasets and details are available from the corresponding author on reasonable request.
 
